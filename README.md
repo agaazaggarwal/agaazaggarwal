@@ -11,7 +11,6 @@
 
 **Full-Stack Web Developer · CS Student @ Thapar Institute · Building things with React & Node**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-agaazaggarwal.github.io-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://agaazaggarwal.github.io/Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agaaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agaaz/)
 [![Instagram](https://img.shields.io/badge/Instagram-agaazzz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agaazzz/)
 
